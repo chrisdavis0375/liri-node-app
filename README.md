@@ -19,9 +19,9 @@ Language Interpretation and Recognition Interface
 
 -If nothing is searched after executing command spoify-this-song, the search query will default to "The Sign". If nothing is searched after executing movie-this, the search query will default to "Mr.Nobody".
 
-*Developed and maintainged by Chris Davis
+*Developed and maintained by Chris Davis
 
 *Contact: chrisdavis0375@gmail.com
 
-**********View the demo************
+**View the demo
 https://youtu.be/w6h2XKjjxN0
